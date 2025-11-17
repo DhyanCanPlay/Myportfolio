@@ -1,0 +1,38 @@
+Terms of Service — “Ur Crush” Discord Bot
+
+1. Acceptance of Terms
+By inviting or using “Ur Crush,” you agree to these Terms. If you do not agree, do not use the bot.
+
+
+2. Bot Purpose
+“Ur Crush” provides moderation tools, music playback, and general utility features within Discord servers.
+
+
+3. User Responsibilities
+• You must follow Discord’s Community Guidelines and Terms of Service.
+• You may not use the bot for harassment, abuse, illegal activity, or disruption of servers.
+• Server owners and administrators are responsible for configuring permissions correctly.
+
+
+4. Prohibited Use
+• Attempting to exploit, reverse-engineer, or damage the bot.
+• Spamming commands or intentionally overloading the bot.
+• Using the bot to store, share, or promote harmful content.
+
+
+5. Service Availability
+“Ur Crush” is provided as-is without guarantees. Downtime, bugs, or feature changes may occur at any time.
+
+
+6. Termination
+The bot may be removed from any server or disabled globally without prior notice if misuse or violations occur.
+
+
+7. Liability
+The bot developer is not responsible for damages, moderation actions, lost data, or conflicts caused by the bot’s usage.
+
+
+8. Changes to Terms
+These Terms may be updated at any time. Continued use of the bot constitutes acceptance of updated terms.
+
+
