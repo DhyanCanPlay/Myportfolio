@@ -1,0 +1,47 @@
+---
+
+Privacy Policy — “Ur Crush” Discord Bot
+
+1. Data Collected
+“Ur Crush” collects only the minimum data required for functionality:
+• User IDs (for moderation logs, bans, warnings)
+• Message content only when necessary for moderation commands (e.g., warn/log actions)
+• Server IDs and configuration settings
+• Voice channel IDs for music playback
+No data outside Discord is collected.
+
+
+2. How Data Is Used
+• For processing moderation actions
+• For music features
+• For storing server preferences and settings
+• To maintain bot functionality and stability
+
+
+3. Data Storage
+• Some data may be stored temporarily in memory.
+• Long-term stored data (e.g., moderation logs or configs) is limited and only used within the server.
+• Data is never shared, sold, or used for advertising.
+
+
+4. Data Removal
+Server administrators may request removal of stored configuration data or moderation logs.
+Removing the bot from the server will prevent new data from being collected.
+
+
+5. Third-Party Services
+The bot operates entirely within Discord and does not use external third-party services for user data processing, except for music-related APIs that do not access personal info.
+
+
+6. Security
+Reasonable measures are taken to secure stored data, but perfect security cannot be guaranteed.
+
+
+7. Children’s Privacy
+The bot follows Discord’s age requirement (13+ or local equivalent). No additional child-specific data is collected.
+
+
+8. Updates
+This Privacy Policy may be updated at any time. Continued use of the bot means you accept the updated policy.
+
+
